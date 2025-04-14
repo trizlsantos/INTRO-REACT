@@ -1,4 +1,4 @@
 Vite - frontend
 
-npm create vit@latesty . - instalar o vit (põe no terminal)
+npm create vit@latest . - instalar o vit (põe no terminal)
 npm install
